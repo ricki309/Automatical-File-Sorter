@@ -29,15 +29,15 @@ Extension	Destination Folder
 
 - Set the path variable in the script to the directory you want to organize:
 
-path = r"C:/Users/YourUsername/Documents/AutomaticFileSorted/"
+      path = r"C:/Users/YourUsername/Documents/AutomaticFileSorted/"
 
 - Run the script:
 
-python automatic_file_sorter.py
+      python automatic_file_sorter.py
 
 - The script will:
 
-Create subfolders (if not present)
+      Create subfolders (if not present)
 
 - Move files into the correct folder
 
